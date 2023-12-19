@@ -1,0 +1,18 @@
+[
+    {
+        "amount_msat": 1000174042107000,
+        "bip70": null,
+        "exp": 86400,
+        "height": 820146,
+        "message": "",
+        "outputs": [
+            [
+                0,
+                "1Driob2nrQ8utkFP1NfrweNcZpDKuNYqfH",
+                1000174042107
+            ]
+        ],
+        "payment_hash": null,
+        "time": 1701960843
+    }
+]
